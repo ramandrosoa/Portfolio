@@ -3,4 +3,4 @@
   publish = "public"
 
 [environment]
-  HUGO_VERSION = "0.124.0"  # match your local version: hugo version
+  HUGO_VERSION = "0.147.3"  # match your local version: hugo version
