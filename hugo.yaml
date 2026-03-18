@@ -23,7 +23,7 @@ languages:
         content: "De l'analyse de marché au déploiement ML — la technique au service des décisions qui comptent."
         button:
           name: "CV"
-          url: /images/cv/resume_fr.pdf
+          url: /static/images/cv/resume_fr.pdf
       about:
         title: "À Propos de Moi"
         content: |-
@@ -66,7 +66,7 @@ languages:
          
           - title: Prédicteur de Personnalité MBTI
             content: Un pipeline de traitement du langage naturel qui classe les types de personnalité Myers-Briggs à partir de texte, en utilisant des modèles de ML classiques déployés via FastAPI sur Hugging Face Spaces.
-            image: /images/projects/mbti.jpg
+            image: /static/images/projects/mbti.jpg
             featured:
               name: Live demo
               link: https://ramandrosoa-mbti-predictor.hf.space/
@@ -81,7 +81,7 @@ languages:
 
           - title: Géo Quiz App
             content: Une application d'apprentissage ludique construite avec Flask, dotée d'une interface évolutive en 5 étapes et d'un compagnon IA qui réagit à vos performances.
-            image: /images/projects/companion.jpg
+            image: /static/images/projects/companion.jpg
             featured:
               name: Live Demo
               link: https://companion-plum.vercel.app/
@@ -95,7 +95,7 @@ languages:
 
           - title: Transfert de style neuronal
             content: Un projet de deep learning qui fusionne le contenu d'une image avec le style artistique d'une autre, à l'aide d'un extracteur de caractéristiques VGG19 figé, déployé via FastAPI et Hugging Face Spaces.
-            image: /images/projects/cv.jpg
+            image: /static/images/projects/cv.jpg
             featured:
               name: Live demo
               link: https://ramandrosoa-neural-style-transfer.hf.space/
@@ -110,7 +110,7 @@ languages:
 
           - title: Tableau de bord de la qualité de l'air
             content: Un tableau de bord géospatial interactif cartographiant la qualité de l'air à Los Angeles pour révéler l'influence de la proximité des espaces verts sur les niveaux de pollution.
-            image: /images/projects/gis.jpg
+            image: /static/images/projects/gis.jpg
             featured:
               name: Live demo
               link:  https://air-quality-dashboard-q9at.onrender.com
@@ -128,13 +128,13 @@ languages:
         items:
           - title: Spécialisation en Apprentissage Approfondi
             url: https://example.com
-            image: /images/achievement.jpg
+            image: /static/images/achievement.jpg
           - title: Spécialisation en Apprentissage Automatique
             url: https://example.com
-            image: /images/achievement.jpg
+            image: /static/images/achievement.jpg
           - title: Spécialisation en Mathématiques pour les Sciences des Données et l'Apprentissage Automatique
             url: "https://github.com/gurusabarish/hugo-profile"
-            image: /images/achievement.jpg
+            image: /static/images/achievement.jpg
 
       contact:
         content: Ma boîte de réception est toujours ouverte. Que vous ayez une question ou que vous vouliez simplement dire bonjour, je serai ravie de vous répondre!
@@ -276,7 +276,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: /images/cv/resume.pdf
+      url: /static/images/cv/resume.pdf
       download: true
       newPage: false
     socialLinks:
@@ -291,7 +291,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/static/images/me.png"
     content: |-
         Data Scientist with a finance background. I build things: ML models, computer vision and NLP systems, LLM-powered apps — and dashboards that make data useful to decision-makers.
     skills:
@@ -315,7 +315,7 @@ params:
     items:
       - title: MBTI Personality Predictor
         content: An NLP pipeline that classifies Myers-Briggs personality types from text using four binary classifiers, custom feature engineering, and classical ML models deployed via FastAPI on Hugging Face Spaces.
-        image: /images/projects/mbti.jpg
+        image: /static/images/projects/mbti.jpg
         featured:
           name: Live demo
           link: https://ramandrosoa-mbti-predictor.hf.space/
@@ -330,7 +330,7 @@ params:
 
       - title: Geo Quiz App
         content: A gamified learning app built with Flask, featuring a 5-stage evolving interface and an AI-powered companion that reacts to your performance.
-        image: /images/projects/companion.jpg
+        image: /static/images/projects/companion.jpg
         featured:
           name: Live Demo
           link: https://companion-plum.vercel.app/login
@@ -343,7 +343,7 @@ params:
 
       - title: Neural Style Transfer with Deep Learning
         content: An end-to-end deep learning project that blends the content of one image with the artistic style of another using a frozen VGG19 feature extractor, deployed via FastAPI and Hugging Face Spaces.
-        image: /images/projects/cv.jpg
+        image: /static/images/projects/cv.jpg
         featured:
           name: Live demo
           link: https://ramandrosoa-neural-style-transfer.hf.space/
@@ -357,7 +357,7 @@ params:
 
       - title: Air Quality Dashboard
         content: An interactive geospatial dashboard built with Python, mapping air quality across Los Angeles to reveal how proximity to green spaces influences pollution levels.
-        image: /images/projects/gis.jpg
+        image: /static/images/projects/gis.jpg
         featured:
           name: Live Demo
           link: https://air-quality-dashboard-q9at.onrender.com
@@ -414,12 +414,12 @@ params:
     items:
       - title: Deep Learning Specialization
         url: https://example.com
-        image: /images/achievement.jpg
+        image: /static/images/achievement.jpg
       - title: Machine Learning Specialization
-        image: /images/achievement.jpg
+        image: /static/images/achievement.jpg
       - title: Mathematics for Machine Learning and Data Science Specialization
         url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievement.jpg
+        image: /static/images/achievement.jpg
 
 
   #Contact
