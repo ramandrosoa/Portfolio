@@ -413,13 +413,13 @@ params:
     # title: "Custom Name"
     items:
       - title: Deep Learning Specialization
-        url: "https://www.coursera.org/account/accomplishments/specialization/SK6HDY4G429M"
+        url: https://www.coursera.org/account/accomplishments/specialization/SK6HDY4G429M
         image: /images/achievement.jpg
       - title: Machine Learning Specialization
-        url: "https://www.coursera.org/account/accomplishments/specialization/P2NQ75M3A7DH"
+        url: https://www.coursera.org/account/accomplishments/specialization/P2NQ75M3A7DH
         image: /images/achievement.jpg
       - title: Mathematics for Machine Learning and Data Science Specialization
-        url: "https://www.coursera.org/account/accomplishments/specialization/56DJ34VQZT3Q"
+        url: https://www.coursera.org/account/accomplishments/specialization/56DJ34VQZT3Q
         image: /images/achievement.jpg
 
 
