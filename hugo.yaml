@@ -113,7 +113,7 @@ languages:
             image: /images/projects/gis.jpg
             featured:
               name: Live demo
-              link:  https://air-quality-dashboard-q9at.onrender.com
+              link:  https://air-quality-dashboard-eight.vercel.app/
             badges:
               - "OpenAQ"
               - "Google Street View"
@@ -360,7 +360,7 @@ params:
         image: /images/projects/gis.jpg
         featured:
           name: Live Demo
-          link: https://air-quality-dashboard-q9at.onrender.com
+          link: https://air-quality-dashboard-eight.vercel.app/
         badges:
           - "OpenAQ"
           - "Google Street View"
