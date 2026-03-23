@@ -127,13 +127,13 @@ languages:
       achievements:
         items:
           - title: Spécialisation en Apprentissage Approfondi
-            url: https://example.com
+            url: https://www.coursera.org/account/accomplishments/specialization/SK6HDY4G429M
             image: /images/achievement.jpg
           - title: Spécialisation en Apprentissage Automatique
-            url: https://example.com
+            url: https://www.coursera.org/account/accomplishments/specialization/P2NQ75M3A7DH
             image: /images/achievement.jpg
           - title: Spécialisation en Mathématiques pour les Sciences des Données et l'Apprentissage Automatique
-            url: "https://github.com/gurusabarish/hugo-profile"
+            url: https://www.coursera.org/account/accomplishments/specialization/56DJ34VQZT3Q
             image: /images/achievement.jpg
 
       contact:
